@@ -1,0 +1,12 @@
+.container {
+    background-image: url("./background.jpeg");
+    background-size: auto;
+    width:90%;
+    height: 170%;
+    position:absolute;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+ 
+   
+  }
+  
